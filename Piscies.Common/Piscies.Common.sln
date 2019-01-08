@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piscies.Common.Crosscut", "Piscies.Common.Crosscut\Piscies.Common.Crosscut.csproj", "{DAA4D3C5-8754-4ABA-8807-CB0065A88C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piscies.Common.Domain", "Piscies.Common.Domain\Piscies.Common.Domain.csproj", "{944C5CF0-A58A-4BE5-85FB-68F2D221D9B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA4D3C5-8754-4ABA-8807-CB0065A88C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA4D3C5-8754-4ABA-8807-CB0065A88C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA4D3C5-8754-4ABA-8807-CB0065A88C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA4D3C5-8754-4ABA-8807-CB0065A88C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944C5CF0-A58A-4BE5-85FB-68F2D221D9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944C5CF0-A58A-4BE5-85FB-68F2D221D9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944C5CF0-A58A-4BE5-85FB-68F2D221D9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944C5CF0-A58A-4BE5-85FB-68F2D221D9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E319F6A-D5D7-44C4-A38B-E01229B4AE79}
+	EndGlobalSection
+EndGlobal
