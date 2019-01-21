@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Marco "Piscies" Saraiva</Authors>
+    <Company />
+    <Product />
+    <Description>A crosscut layer package with a series of commonly used functionalities like exception handling.</Description>
+    <PackageReleaseNotes>Launching version. Not yet tested in a production environment.</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
